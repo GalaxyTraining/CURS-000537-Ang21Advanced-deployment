@@ -2,6 +2,6 @@ SPRING_PROFILES_ACTIVE=prod
 
 DB_URL=jdbc:mysql://metro.proxy.rlwy.net:38427/railway?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
 
-DB_USER=TU_USUARIO=root
+DB_USER=root
 
-DB_PASS=TU_PASSWORD=uJJkYZzKHNrjxtXnPhPAQYrrcurtnndr
+DB_PASS=uJJkYZzKHNrjxtXnPhPAQYrrcurtnndr
